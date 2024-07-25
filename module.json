@@ -1,6 +1,6 @@
 {
-  "id": "the-shifter",
-  "title": "The Shifter",
+  "id": "the-paragon",
+  "title": "The Paragon",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -8,7 +8,7 @@
     "verified": "12",
     "maximum": "12"
   },
-  "description": "Transform into a powerful creature with this shapeshifting martial class for Pathfinder Second Edition!",
+  "description": "Embody your sphere of power as this thematic, attrition-free spellcasting class for Pathfinder Second Edition!",
   "authors": [
     {
       "name": "Teridax68",
@@ -17,9 +17,9 @@
   ],
   "packs": [
     {
-      "name": "the-shifter",
-      "label": "The Shifter",
-      "path": "packs/the-shifter",
+      "name": "the-paragon",
+      "label": "The Paragon",
+      "path": "packs/the-paragon",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
