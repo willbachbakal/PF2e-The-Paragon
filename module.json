@@ -9,11 +9,15 @@
     "maximum": "12"
   },
   "flags": {
-    "featTraits": {
-      "paragon": "Paragon",
-    },
-    "spellTraits": {
-      "paragon": "Paragon",
+    "the-paragon": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "paragon": "Paragon",
+        },
+        "spellTraits": {
+          "paragon": "Paragon",
+        }
+      }
     }
   }
   "description": "Embody your sphere of power as this thematic, attrition-free spellcasting class for Pathfinder Second Edition!",
